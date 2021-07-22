@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LibraryWebApi",
+    "\\LibraryWebApi\\LibraryWebApi",
+    "\\LibraryWebApi\\LibraryWebApi\\bin",
+    "\\LibraryWebApi\\LibraryWebApi\\bin\\Debug",
+    "\\LibraryWebApi\\LibraryWebApi\\bin\\Release",
+    "\\LibraryWebApi\\LibraryWebApi\\Entities",
+    "\\LibraryWebApi\\LibraryWebApi\\Services",
+    "\\LibraryWebApi\\LibraryWebApi\\Services\\Repositories",
+    "\\LibraryWebApi\\LibraryWebApi\\Services\\UnitsOfWork"
   ],
-  "SelectedNode": "\\gitignore",
+  "SelectedNode": "\\LibraryWebApi\\LibraryWebApi",
   "PreviewInSolutionExplorer": false
 }
